@@ -2,7 +2,7 @@
 
 const Home = () => {
   return (
-    <div className="min-h-screen px-6 py-10 bg-amber-50 text-gray-800">
+    <div className="min-h-screen px-6 py-10  text-gray-800">
       <div className="max-w-4xl mx-auto space-y-8">
         <h1 className="text-3xl font-bold text-amber-900">
           InventoHub: Reimagining Innovation and IP Commercialization for the Next Century

@@ -4,7 +4,7 @@ import Sidebar from './Sidebar';
 
 export const Header = () => {
   return (
-    <div className="bg-blue-950">
+    <div className="bg-blue-600">
       <div className="flex justify-between items-center px-6 py-3">
         {/* Left: Logo */}
         <div className="flex-col items-center">
