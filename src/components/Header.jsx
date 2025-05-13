@@ -4,7 +4,7 @@ import Sidebar from './Sidebar';
 
 export const Header = () => {
   return (
-    <div className="bg-amber-950">
+    <div className="bg-blue-950">
       <div className="flex justify-between items-center px-6 py-3">
         {/* Left: Logo */}
         <div className="flex-col items-center">
@@ -21,11 +21,11 @@ export const Header = () => {
         <div className="flex gap-8 text-lg font-medium">
           {/* <Link to="/home" className="hover:underline">Home</Link> */}
           <Link to="/" className="hover:opacity-20 text-white">Home</Link>
-          <Link to="/pricing" className="hover:opacity-20 text-white">Pricing</Link>
-          
+          {/* <Link to="/pricing" className="hover:opacity-20 text-white">Pricing</Link>
+           */}
           {/* <Link to="/ask" className="hover:underline">Ask AI</Link> */}
-          <Link to="/experts" className="hover:opacity-20 text-white ">Experts</Link>
-          <Link to="/signin" className="hover:opacity-20 text-white">Sign In</Link>
+          {/* <Link to="/experts" className="hover:opacity-20 text-white ">Experts</Link>
+          <Link to="/signin" className="hover:opacity-20 text-white">Sign In</Link> */}
         </div>
       </div>
     </div>
