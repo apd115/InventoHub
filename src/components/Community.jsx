@@ -8,7 +8,7 @@ export const Community = () => {
 
         <div className="bg-blue-50 shadow-lg rounded-2xl p-8 flex items-center space-x-8 border border-blue-200">
           <img
-            src="\public\assests\Savio.jpeg"
+            src="\assests\Savio.jpeg"
             alt="D Dsouzas Savio"
             className="w-32 h-32 rounded-full object-cover border-4 border-blue-300"
           />
